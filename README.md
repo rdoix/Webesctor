@@ -1,11 +1,11 @@
 # 🔍 WEBESCTOR
 **Enhanced Web Security & Analysis Tool with DoS Protection Testing**
-
-A comprehensive web application security testing and reconnaissance tool designed for security professionals, penetration testers, and DevOps teams to evaluate WAF effectiveness and DoS protection mechanisms.
-
 ![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)
 [![Security](https://img.shields.io/badge/security-testing-red.svg)](https://github.com/rdoix/webesctor)
 ![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Windows%20%7C%20macOS-lightgrey.svg)
+A comprehensive web application security testing and reconnaissance tool designed for security professionals, penetration testers, and DevOps teams to evaluate WAF effectiveness and DoS protection mechanisms.
+
+![webesctor](assets/webesctor.mp4)
 
 
 
