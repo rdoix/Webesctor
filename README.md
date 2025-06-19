@@ -294,6 +294,4 @@ This tool is intended for legitimate security testing and educational purposes o
 
 ---
 
-**Made with ❤️ by RDoix**
-
 *Star ⭐ this repository if you find it useful!*
